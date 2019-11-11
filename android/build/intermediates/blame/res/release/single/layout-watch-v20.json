@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3e6e4daf53f72a10a7faa0ab7c3fbad9\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3e6e4daf53f72a10a7faa0ab7c3fbad9\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    }
+]

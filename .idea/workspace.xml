@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27153017-6377-441f-9ea4-6656f899e4ac" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ReactVlcPlayerView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3194">
+              <caret line="692" column="63" lean-forward="true" selection-start-line="692" selection-start-column="63" selection-end-line="692" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VLCPlayer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VLCPlayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="190" column="19" lean-forward="false" selection-start-line="190" selection-start-column="4" selection-end-line="190" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playerViewByMethod/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22817">
+              <caret line="118" column="10" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="118" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#49#90#0" expanded="true" />
+                <element signature="e#29233#29626#0" expanded="false" />
+                <element signature="e#29727#29999#0" expanded="false" />
+                <element signature="e#30027#31175#0" expanded="false" />
+                <element signature="e#31294#31561#0" expanded="false" />
+                <element signature="e#36652#37987#0" expanded="false" />
+                <element signature="e#38010#40448#0" expanded="false" />
+                <element signature="e#40475#41184#0" expanded="false" />
+                <element signature="e#41210#42585#0" expanded="false" />
+                <element signature="e#41494#42577#0" expanded="false" />
+                <element signature="e#42613#49222#0" expanded="false" />
+                <element signature="e#43211#43249#0" expanded="false" />
+                <element signature="e#49249#50306#0" expanded="false" />
+                <element signature="e#50333#51714#0" expanded="false" />
+                <element signature="e#51739#53078#0" expanded="false" />
+                <element signature="e#53094#59257#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="348" column="54" lean-forward="true" selection-start-line="348" selection-start-column="54" selection-end-line="348" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VLCPlayerView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playerViewByMethod/VLCPlayerView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8056">
+              <caret line="426" column="0" lean-forward="false" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
+              <folding>
+                <element signature="e#48#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReactVlcPlayerPackage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/ReactVlcPlayerPackage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReactVlcPlayerViewManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerViewManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="138" column="46" lean-forward="false" selection-start-line="138" selection-start-column="46" selection-end-line="138" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lockToOr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/playerViewByMethod/index.js" />
+        <option value="$PROJECT_DIR$/VLCPlayer.js" />
+        <option value="$PROJECT_DIR$/playerViewByMethod/VLCPlayerView.js" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerViewManager.java" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerView.java" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="206" />
+    <option name="y" value="72" />
+    <option name="width" value="1533" />
+    <option name="height" value="895" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yuanzhou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yuanzhou" type="462c0819:PsiDirectoryNode" />
+              <item name="vlc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-yz-vlcplayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-yz-vlcplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yuanzhou" type="462c0819:PsiDirectoryNode" />
+              <item name="vlc" type="462c0819:PsiDirectoryNode" />
+              <item name="vlcplayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27153017-6377-441f-9ea4-6656f899e4ac" name="Default" comment="" />
+      <created>1542775363944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542775363944</updated>
+      <workItem from="1542775365600" duration="1924000" />
+      <workItem from="1543198211275" duration="8241000" />
+      <workItem from="1544072847029" duration="2315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12480000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19546892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21818182" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12768">
+          <caret line="672" column="0" lean-forward="false" selection-start-line="672" selection-start-column="0" selection-end-line="672" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="118" column="10" lean-forward="true" selection-start-line="106" selection-start-column="8" selection-end-line="118" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#49#90#0" expanded="true" />
+            <element signature="e#29233#29626#0" expanded="false" />
+            <element signature="e#29727#29999#0" expanded="false" />
+            <element signature="e#30027#31175#0" expanded="false" />
+            <element signature="e#31294#31561#0" expanded="false" />
+            <element signature="e#36652#37987#0" expanded="false" />
+            <element signature="e#38010#40448#0" expanded="false" />
+            <element signature="e#40475#41184#0" expanded="false" />
+            <element signature="e#41210#42585#0" expanded="false" />
+            <element signature="e#41494#42577#0" expanded="false" />
+            <element signature="e#42613#49222#0" expanded="false" />
+            <element signature="e#43211#43249#0" expanded="false" />
+            <element signature="e#49249#50306#0" expanded="false" />
+            <element signature="e#50333#51714#0" expanded="false" />
+            <element signature="e#51739#53078#0" expanded="false" />
+            <element signature="e#53094#59257#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VLCPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7467">
+          <caret line="393" column="0" lean-forward="true" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/VideoEventEmitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerViewManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/SizeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/TimeLimit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/VLCPlayerView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7809">
+          <caret line="424" column="0" lean-forward="false" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#49#90#0" expanded="true" />
+            <element signature="e#29233#29626#0" expanded="false" />
+            <element signature="e#29727#29999#0" expanded="false" />
+            <element signature="e#30027#31175#0" expanded="false" />
+            <element signature="e#31294#31561#0" expanded="false" />
+            <element signature="e#36652#37987#0" expanded="false" />
+            <element signature="e#38010#40448#0" expanded="false" />
+            <element signature="e#40475#41184#0" expanded="false" />
+            <element signature="e#41210#42585#0" expanded="false" />
+            <element signature="e#41494#42577#0" expanded="false" />
+            <element signature="e#42613#49222#0" expanded="false" />
+            <element signature="e#43211#43249#0" expanded="false" />
+            <element signature="e#49249#50306#0" expanded="false" />
+            <element signature="e#50333#51714#0" expanded="false" />
+            <element signature="e#51739#53078#0" expanded="false" />
+            <element signature="e#53094#59257#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11704">
+          <caret line="616" column="22" lean-forward="false" selection-start-line="616" selection-start-column="22" selection-end-line="616" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6688">
+          <caret line="352" column="0" lean-forward="false" selection-start-line="352" selection-start-column="0" selection-end-line="352" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/SizeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/VLCPlayerView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/ControlBtn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1542775314757" expanded="true" signature="0:47" ph="/** Created by yuanzhou.xu on 2018/5/16. ...*/" />
+            <marker date="1542775314757" expanded="false" signature="55:402" ph="..." />
+            <marker date="1542775314757" expanded="true" signature="454:931" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="711:856" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="740:795" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="801:850" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="937:981" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="1009:1056" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="1062:1103" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="1144:5348" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="1741:1819" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="2122:2196" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="2516:2577" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="2805:4878" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="2906:3105" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="3163:3358" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="3958:4047" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="4097:4138" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="4243:4288" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="4453:4648" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="4978:5052" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="5385:6880" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="5400:5449" ph="{...}" />
+            <marker date="1542775314757" expanded="true" signature="5463:5503" ph="{&quot;width&quot;: '100%'...}" />
+            <marker date="1542775314757" expanded="true" signature="5520:5761" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1542775314757" expanded="true" signature="5780:5884" ph="{&quot;textAlign&quot;: 'center'...}" />
+            <marker date="1542775314757" expanded="true" signature="5906:5998" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1542775314757" expanded="true" signature="6019:6129" ph="{&quot;width&quot;: '100%'...}" />
+            <marker date="1542775314757" expanded="true" signature="6150:6297" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1542775314757" expanded="true" signature="6312:6407" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1542775314757" expanded="true" signature="6418:6503" ph="{&quot;backgroundColor&quot;: '##fff'...}" />
+            <marker date="1542775314757" expanded="true" signature="6516:6682" ph="{&quot;position&quot;: 'absolute'...}" />
+            <marker date="1542775314757" expanded="true" signature="6691:6877" ph="{&quot;backgroundColor&quot;: 'rgba(255,255,255,1)'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/BackHandle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1542775314755" expanded="true" signature="0:40" ph="/** Created by aolc on 2018/5/22. ...*/" />
+            <marker date="1542775314755" expanded="true" signature="139:289" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="203:268" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="226:264" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="322:477" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="386:456" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="414:452" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="504:860" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="541:843" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="907:980" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="1017:1107" ph="{...}" />
+            <marker date="1542775314755" expanded="true" signature="1125:1183" ph="{&quot;handleBack&quot;: handleBack...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/TimeLimit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/VideoEventEmitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/SizeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22817">
+          <caret line="118" column="10" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="118" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#49#90#0" expanded="true" />
+            <element signature="e#29233#29626#0" expanded="false" />
+            <element signature="e#29727#29999#0" expanded="false" />
+            <element signature="e#30027#31175#0" expanded="false" />
+            <element signature="e#31294#31561#0" expanded="false" />
+            <element signature="e#36652#37987#0" expanded="false" />
+            <element signature="e#38010#40448#0" expanded="false" />
+            <element signature="e#40475#41184#0" expanded="false" />
+            <element signature="e#41210#42585#0" expanded="false" />
+            <element signature="e#41494#42577#0" expanded="false" />
+            <element signature="e#42613#49222#0" expanded="false" />
+            <element signature="e#43211#43249#0" expanded="false" />
+            <element signature="e#49249#50306#0" expanded="false" />
+            <element signature="e#50333#51714#0" expanded="false" />
+            <element signature="e#51739#53078#0" expanded="false" />
+            <element signature="e#53094#59257#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/ReactVlcPlayerPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerViewManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="138" column="46" lean-forward="false" selection-start-line="138" selection-start-column="46" selection-end-line="138" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerViewByMethod/VLCPlayerView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8056">
+          <caret line="426" column="0" lean-forward="false" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/yuanzhou/vlc/vlcplayer/ReactVlcPlayerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3194">
+          <caret line="692" column="63" lean-forward="true" selection-start-line="692" selection-start-column="63" selection-end-line="692" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VLCPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="190" column="19" lean-forward="false" selection-start-line="190" selection-start-column="4" selection-end-line="190" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="348" column="54" lean-forward="true" selection-start-line="348" selection-start-column="54" selection-end-line="348" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

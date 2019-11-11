@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7e398b2e9b0a4deda1819314c570a37b\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7e398b2e9b0a4deda1819314c570a37b\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7e398b2e9b0a4deda1819314c570a37b\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\MyWebSites\\IPTV\\APP\\OneTouchTV\\react-native-starter\\node_modules\\react-native-yz-vlcplayer\\android\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7e398b2e9b0a4deda1819314c570a37b\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
