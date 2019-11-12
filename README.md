@@ -5,7 +5,7 @@ A `<VLCPlayer>` Package for React Native ( android & IOS ) , fixed all issues wi
 [react-native-vlcplayer](https://github.com/xiongchuan86/react-native-vlcplayer),
 [react-native-vlc-player](https://github.com/ghondar/react-native-vlc-player)
 
-VLCPlayer 支持各种格式(mp4,m3u8,flv,mov,rtsp,rtmp,etc.)，具体参看[vlc wiki](https://wiki.videolan.org/Documentation:Documentation/)
+VLCPlayer format(mp4,m3u8,flv,mov,rtsp,rtmp,etc.)，Source[vlc wiki](https://wiki.videolan.org/Documentation:Documentation/)
 
 [https://code.videolan.org/videolan/VLCKit](https://code.videolan.org/videolan/VLCKit)
 
