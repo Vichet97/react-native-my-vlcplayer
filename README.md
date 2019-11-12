@@ -1,7 +1,7 @@
 # react-native-my-vlcplayer
 
 A `<VLCPlayer>` Package for React Native ( android & IOS ) , fixed all issues with event emitters
-此项目 参考[react-native-video](https://github.com/react-native-community/react-native-video)，
+Related [react-native-video](https://github.com/react-native-community/react-native-video)，
 [react-native-vlcplayer](https://github.com/xiongchuan86/react-native-vlcplayer),
 [react-native-vlc-player](https://github.com/ghondar/react-native-vlc-player)
 
